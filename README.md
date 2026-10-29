@@ -135,7 +135,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamran-Nazeer710&show_icons=true&theme=tokyonight" alt="Kamran's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamran-Nazeer710&theme=tokyonight" alt="Kamran's GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=Kamran-Nazeer710&theme=tokyonight" alt="GitHub streak" />
 </p>
 
